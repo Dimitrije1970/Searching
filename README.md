@@ -1,1 +1,3 @@
-Searching 
+**Searching** is a C++ program that demonstrates various search algorithms on different types of data structures. It supports linear search on both arrays and linked lists using both linear and m-ary approaches, with configurable parameters to optimize search performance. The program also implements an optimized search of a series of keys, with the ability to perform early exit if all keys are found, improving search efficiency.
+
+In addition to linear search, the program showcases binary search on a binary search tree data structure. Basic operations such as insertion, deletion, and traversal of the tree are implemented, and the search algorithm is optimized for balanced trees. The program also provides a graphical display of the binary search tree, making it easy to visualize and understand the search process.
